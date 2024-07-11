@@ -10,14 +10,14 @@ This project is mostly about me learning Go with an interesting project to boot
 - [x] Write first Go program
 - [x] Learn about basic syntax (loops, arrays functions and classes)
 - [x] Learn about memmory management in Go
-- [x] Learn about file interaction with Go
 
 [BST realizstion](GoTree/)
 - [x] Make basic data-structures (Linked lists, binary trees)
 
 [Huffman](Huffman/)
-- [ ] Write a Huffman tree encoder
+- [x] Write a Huffman tree encoder
 
+- [ ] Learn about file interaction with Go
 - [ ] Learn about methods of creating compression dictionaries
 - [ ] Write the encoder
 - [ ] Write the decoder
